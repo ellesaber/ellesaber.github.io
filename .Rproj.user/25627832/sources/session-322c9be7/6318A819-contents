@@ -1,0 +1,22 @@
+---
+title: "About Elle"
+image: Elle_Saber_3.jpg
+about:
+  template: jolla
+  links:
+    - icon: bluesky
+      text: Bluesky
+      href: https://bsky.app/
+    - icon: linkedin
+      text: LinkedIn
+      href: https://linkedin.com
+    - icon: github
+      text: Github
+      href: https://github.com
+---
+
+Dr Elle Saber is a statistician working on quantitative methods in biology. She has an interdisciplinary background, beginning her career in economics before shifting her focus to biological data science.
+
+Elle has worked across a range of topics in agriculture and aquaculture. Her PhD explored methods for analysing microbiome data, using a gill microbiome dataset from Atlantic Salmon.
+
+Alongside her research, Elle has taught statistics and R programming, in both classroom and collaborative settings. She values opportunities to collaborate with researchers from different fields and enjoys contributing her skills to diverse projects.

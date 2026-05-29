@@ -1,0 +1,29 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Fonti Kar"
+  navbar:
+    search: true
+    right:
+      - href: blog/index.qmd
+        text: Blog
+      - href: talks/index.qmd
+        text: Talks
+      - href: projects/index.qmd
+        text: Projects
+  google-analytics: "G-85GWJNB5L8"
+
+format:
+  html:
+    theme: sketchy
+    css: styles.css
+    toc: true
+
+editor: 
+  mode: source
+  drafts:
+    draft-mode: visible
+    
+date-format: DD MMM YYYY

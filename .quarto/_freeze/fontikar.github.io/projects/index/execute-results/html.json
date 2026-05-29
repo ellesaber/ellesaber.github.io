@@ -1,0 +1,15 @@
+{
+  "hash": "c5d5f1b982c0518392279e5c5aed3336",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"Projects\"\nlisting:\n  sort: \"date desc\"\n  type: grid\n  categories: true\n  image-height: \"7\"\n---\n\n\n::: {.cell}\n\n:::\n\n\n\n::: {.cell}\n\n```{.r .cell-code}\n# install(\"APCalign\")\n# remotes::install_github(\"traitecoevo/austraits\")\n# remotes::install_github(\"traitecoevo/infinitylists\")\n# remotes::install_github(\"fontikar/ohwhaley\")\n```\n:::\n\n\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

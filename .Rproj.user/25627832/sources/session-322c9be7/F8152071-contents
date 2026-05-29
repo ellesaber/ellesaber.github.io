@@ -1,0 +1,45 @@
+---
+title: "Elle"
+image: "images/Elle_Saber_3.jpg"
+about: 
+  template: trestles
+  image-shape: round
+  links:
+    - icon: envelope
+      href: "mailto:elle.saber@anu.edu.au"
+    - icon: github
+      url: "https://github.com/ellesaber"
+    - icon: linkedin
+      href: "https://www.linkedin.com/in/elle-saber-76242625/"
+    - text: "{{< ai google-scholar>}}"
+      href: "https://scholar.google.com.au/citations?user=ug3WojMAAAAJ&hl=en&oi=ao"
+---
+
+:::: {#hero-heading}
+::: column-body-outset
+## About Elle
+
+Dr Elle Saber is a statistician working on quantitative methods in biology. She has an interdisciplinary background, beginning her career in economics before shifting her focus to biological data science.
+
+Elle has worked across a range of topics in agriculture and aquaculture. Her PhD explored methods for analysing microbiome data, using a gill microbiome dataset from Atlantic Salmon.
+
+Alongside her research, Elle has taught statistics and R programming, in both classroom and collaborative settings. She values opportunities to collaborate with researchers from different fields and enjoys contributing her skills to diverse projects.
+
+------------------------------------------------------------------------
+
+## Experience
+
+**Postdoctoral Research Fellow** \| June 2025 [Biological Data Science Institute](https://bdsi.anu.edu.au/) / ANU
+
+
+
+------------------------------------------------------------------------
+
+## Education
+
+**Ph. D.** \| June 2025 \
+Research School of Finance, Actuarial Studies and Statistics, Australian National University\
+\* Thesis: *Resemblance between Microbiomes*
+
+:::
+::::
